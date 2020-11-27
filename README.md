@@ -7,7 +7,7 @@ Containerized rsyslog server
 
 ```
 
-ALLOWEDSERVERS   (optional)    Defines comma-separated syslog client ip addresses.
+ALLOWEDSERVERS   (optional)    Defines comma-separated ip addresses of syslog clients.
                                Allows all IPs if this env variable isn't defined. 
 
 ```
